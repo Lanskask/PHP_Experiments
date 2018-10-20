@@ -1,0 +1,12 @@
+{
+    "name": "a1/2_streams",
+    "authors": [
+        {
+            "name": "Lanskask",
+            "email": "alanskaskiy@mail.ru"
+        }
+    ],
+    "require": {
+    	"phpmailer/phpmailer": "v6.0.5"
+    }
+}
